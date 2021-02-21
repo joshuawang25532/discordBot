@@ -42,4 +42,7 @@ def about(request):
 def login(request):
     return HttpResponse("give me your credit card")
 
+def eggs(request):
+    return render(request, 'generator/eggs.html')
+
 
