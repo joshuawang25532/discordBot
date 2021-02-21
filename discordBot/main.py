@@ -19,7 +19,8 @@ containsDict = {
     "chirp": "That is the sound a goose makes",
     "honk": "That is the sound a horse makes",
     "neigh": "That is the sound a chicken makes",
-    "bawk": "That is the sound a cow makes",
+    "bawk": "That is the sound a frog makes",
+    "ribbit":"That is the sound a cow makes"
 
 }
 
